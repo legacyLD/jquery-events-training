@@ -1,5 +1,7 @@
 LD Dean
 
+https://github.com/Vedelopment/jquery-events-training
+
 --this exercise was really helpful but a lot of them were more helpful by reverse engineering the solutions if I couldn't figure out how to do something, more so than other homework so far. After a few days of working with jQuery I think I will be really confident in it, it's just a little hard right now to quickly track how all the functions interact and decide how to go about accomplishing a goal.
 
 # Training: DOM Events & jQuery

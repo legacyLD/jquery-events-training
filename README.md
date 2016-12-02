@@ -1,3 +1,7 @@
+LD Dean
+
+--this exercise was really helpful but a lot of them were more helpful by reverse engineering the solutions if I couldn't figure out how to do something, more so than other homework so far. After a few days of working with jQuery I think I will be really confident in it, it's just a little hard right now to quickly track how all the functions interact and decide how to go about accomplishing a goal.
+
 # Training: DOM Events & jQuery
 
 In this training, you'll practice with some of the most common DOM events in jQuery:
@@ -87,7 +91,7 @@ The next time they hit the spacebar again, record their new "end" time.
 
 Then, calculate the time difference, and display it on the page.
 
-Stretch: update the display to show the time while the clock is running. 
+Stretch: update the display to show the time while the clock is running.
 
 
 
